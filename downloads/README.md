@@ -8,6 +8,7 @@
 - [watch](./watch)
 - [woocommerce](./woocommerce)
 - [woodmart-8.3.7](./woodmart-8.3.7)
+- [yt-dlp_arm64](./yt-dlp_arm64)
 
 ---
 
