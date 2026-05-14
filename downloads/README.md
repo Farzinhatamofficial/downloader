@@ -9,6 +9,7 @@
 - [YTPRO](./YTPRO)
 - [details%3Fid%3Dcom.rostamvpn](./details%253Fid%253Dcom.rostamvpn)
 - [elementor-4.1.0-latest-1778165366](./elementor-4.1.0-latest-1778165366)
+- [mobile](./mobile)
 - [watch](./watch)
 - [woocommerce](./woocommerce)
 - [woodmart-8.3.7](./woodmart-8.3.7)
