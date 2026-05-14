@@ -3,6 +3,7 @@
 - [3ff60003-16e6-4741-8632-6b46c7690713](./3ff60003-16e6-4741-8632-6b46c7690713)
 - [76899043-7edc-4626-ae9a-bfa4db5697ca](./76899043-7edc-4626-ae9a-bfa4db5697ca)
 - [@LyricPixelArt C13](./%40LyricPixelArt%20C13)
+- [ProtonVPN-5.18.28.1.605182801.-production-vanilla-direct-release](./ProtonVPN-5.18.28.1.605182801.-production-vanilla-direct-release)
 - [PsiphonAndroid](./PsiphonAndroid)
 - [RostamMediaExtractor-0.0.5](./RostamMediaExtractor-0.0.5)
 - [YTPRO](./YTPRO)
